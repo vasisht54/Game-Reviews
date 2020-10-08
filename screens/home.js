@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import { StyleSheet, View, Button, Text, FlatList, TouchableOpacity } from 'react-native';
-import {globalStyles} from './styles/global';
+import {globalStyles} from '../styles/global';
 
 export default function Home({ navigation }) {
 

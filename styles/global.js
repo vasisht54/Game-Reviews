@@ -4,7 +4,7 @@ export const globalStyles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 20,
-    paddingTop: 40
+    //paddingTop: 40
   },
   titleText: {
     fontFamily: 'crimsonText-bold',
